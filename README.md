@@ -32,7 +32,7 @@ The following image shows the application's registered service worker:
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module  with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![Demonstration of the finished Module  with a IndexedDB storage named 'jate' in the browser.](./Assets/Screenshot3.png)
 
 
 ## Review
@@ -41,4 +41,4 @@ You are required to submit the following for review:
 
 * [The URL of the deployed application]()
 
-* [The URL of the GitHub repository, with a unique name and a README describing the project]()
+* [The URL of the GitHub repository, with a unique name and a README describing the project](https://github.com/PROGRAMER122223/Text-pad.git)
